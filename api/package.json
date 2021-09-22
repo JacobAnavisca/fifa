@@ -10,7 +10,7 @@
     "mysql": "github:mysqljs/mysql",
     "request": "^2.83.0",
     "serverless-dynamodb-client": "0.0.2",
-    "serverless-http": "^1.5.2",
+    "serverless-http": "^1.10.1",
     "uuid": "^3.3.2"
   },
   "devDependencies": {
